@@ -1,5 +1,6 @@
 RENCANA KONTEN:
 -JAVASQRIPT
  *bikin semua hal susah menjadi mudah
+-fundamental js dan php
 -PHP
 -CSS
