@@ -1,0 +1,5 @@
+RENCANA KONTEN:
+-JAVASQRIPT
+ *bikin semua hal susah menjadi mudah
+-PHP
+-CSS
