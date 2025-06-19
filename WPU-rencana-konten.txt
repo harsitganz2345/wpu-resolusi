@@ -1,6 +1,8 @@
 RENCANA KONTEN:
 -JAVASQRIPT
  *bikin semua hal susah menjadi mudah
--fundamental js dan php
--PHP
+  ^bikin repo di gtihub
+  ^belajar melalui unpas
+-PHP framework
+  ^laravel
 -CSS
