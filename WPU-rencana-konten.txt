@@ -5,4 +5,10 @@ RENCANA KONTEN:
   ^belajar melalui unpas
 -PHP framework
   ^laravel
+  ^belajar vcs
+  ^menerapkan ke actual project
+-fundamental js dan php
+-PHP framework
+ ^Laravel
 -CSS
+-Python
