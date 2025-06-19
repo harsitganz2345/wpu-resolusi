@@ -1,6 +1,10 @@
 RENCANA KONTEN:
 -JAVASQRIPT
  *bikin semua hal susah menjadi mudah
+  ^belajar vcs
+  ^menerapkan ke actual project
 -fundamental js dan php
--PHP
+-PHP framework
+ ^Laravel
 -CSS
+-Python
